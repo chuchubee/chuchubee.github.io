@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo tranquilpeak theme</title>
+    <title>Tags on chuchubee&#39;s murmur</title>
     <link>https://chuchubee.github.io/tags/</link>
-    <description>Recent content in Tags on Hugo tranquilpeak theme</description>
+    <description>Recent content in Tags on chuchubee&#39;s murmur</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://chuchubee.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh_TW</language>
+    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chuchubee.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>google search console</title>
+      <link>https://chuchubee.github.io/tags/google-search-console/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chuchubee.github.io/tags/google-search-console/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEO</title>
+      <link>https://chuchubee.github.io/tags/seo/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chuchubee.github.io/tags/seo/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>disqus</title>
       <link>https://chuchubee.github.io/tags/disqus/</link>
